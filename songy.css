@@ -1,0 +1,293 @@
+{
+    borde: 0.1px solid red;
+}
+bo {
+    font-family: 'Montserrat', sans-serif;
+}
+.page {
+    width: 85%;
+    margin: 0 auto;
+    height: 1100px;
+}
+.header {
+    width: 100%;
+}
+.header .h_ul {
+    width: fit-content;
+    height: fit-content;
+    list-style-type: none;
+    display: inline-flex;
+    float: right;
+}
+.header .h_ul li {
+    margin-right: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.header .h_ul li:hover {
+    color: #020202;
+    font-weight: bold ;
+    cursor: pointer;
+}
+.header .buttons ul {
+    width: fit-content;
+    height: fit-content;
+    list-style-type: none;
+    display: inline-flex;
+    font-family: 'Montserrat', sans-serif;
+}
+.header .buttons {
+    width: fit-content;
+    height: fit-content;
+    float: right;
+    margin-top: 20px;
+    list-style-type: none;
+}
+.header .logo {
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.header .menu {
+    display: inline-flex;
+    height: fit-content;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.header .ss {
+    width: fit-content;
+    height: fit-content;
+    cursor: pointer;
+    padding: 3px 3px ;
+}
+.header .oo {
+    border: 0px solid #000000;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    font-weight: normal;
+    border-radius: 150px;
+    color: #000000;
+}
+.header .o {
+    border: 0px solid #000000;
+    background-color: #000000;
+    padding: 10px 15px;
+    font-weight: normal;
+    border-radius: 150px;
+    color: #ffffff;
+}
+.header .ooo {
+    border: 0px solid #000000;
+    background-color: #000000;
+    padding: 10px 20px;
+    font-weight: normal;
+    border-radius: 150px;
+    color: #ffffff;
+}
+.header .as button {
+    cursor: pointer;
+}
+.first {
+    background-color: #ffdedd;
+    border-radius: 30px;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-top: 50px;
+}
+.first .l {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.first .l .big {
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.first .l .med {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+}
+.first .l .strelka {
+    display: inline-flex;
+}
+.first .l .strelka .last {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+.first .r {
+    width: fit-content;
+    height: fit-content;
+    float: right;
+    margin-right: 30px;
+}
+.first .r .v {
+    border-radius: 20px;
+}
+.tri {
+    width: 100%;
+    height: fit-content;
+    margin-top: 60px;
+    display: inline-flex;
+}
+.tri .p {
+    float: left;
+}
+.tri .p a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.tri .blunk {
+    display: inline-flex;
+    margin-left: 200px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+.tri .blunk a {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 280px;
+    margin-top: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    color: #979797;
+}
+.tri .blunk img {
+    float: left;
+}
+.tri .new {
+    width: fit-content;
+    height: fit-content;
+    display: inline-flex;
+    background-color: black;
+    border-radius: 100px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    margin-left: 240px;
+}
+.tri .new a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400    ;
+    color: white;
+    font-size: 12px;
+    margin-top: 2px;
+}
+.tri .new .awe {
+    padding-left: 20px;
+    font-weight: 100;
+    margin-right: 5px;
+}
+.tri .new .qw {
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.nizo {
+    display: inline-flex;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
+}
+.nizo .lef {
+    width: 367px;
+    height: 290px;
+    margin-right: 100px;
+    background-color: #ffffff;
+}
+.nizo .lef .ve {
+    width: 100%;
+    height: 24px;
+}
+.nizo .lef .ve .do {
+    float: left;
+    font-size: 19px;
+    font-weight: bold;
+}
+.nizo .lef .ve .red {
+    float: right;
+    font-size: 12px ;
+}
+.nizo .lef .dc div {
+    float: right;
+}
+.nizo .lef .dc a {
+    float: left;
+}
+.nizo .lef .dc .dfd {
+    width: 20px;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+.nizo .lef .dc .fdf {
+    width: 20px;
+    height: 20px;
+    background-color: #000000;
+    border-radius: 5px;
+}
+.nizo .lef .dc .ve {
+    font-size: 19px;
+    font-weight: bold;
+}
+.nizo .lef .dc .ve .img {
+    float: right;
+}
+.nizo .lef .dc .ga {
+    margin-left: 3px;
+}
+.nizo .rig {
+    width: 100%;
+    height: 290px;
+}
+.nizo .rig .imog {
+    position: absolute;
+}
+.nizo .rig .we {
+    width: 925px;
+}
+.nizo .rig .ws {
+    display: inline-flex;
+}
+.nizo .rig .op {
+    width: fit-content;
+    height: fit-content;
+    float: right;
+    position: absolute;
+    margin-left: 650px;
+}
+.nizo .rig .zve {
+    width: 270px;
+    margin-top: 160px;
+}
+.nizo .rig .zve a {
+    font-size: 15px;
+}
+.nizo .rig .zve .zaq {
+    width: 100%;
+}
+.nizo .rig .zve .zaq .fv {
+    float: left;
+    font-size: 12px;
+}
+.nizo .rig .zve .zaq .fc {
+    float: right;
+    font-size: 11px;
+    color: #8f8f8f;
+}
+.nizo .rig .zve .zaq img {
+    margin-top: 2px;
+}
+.nizo .rig .ws :first-child {
+    margin-right: 55px;
+}
